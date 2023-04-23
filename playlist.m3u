@@ -1,0 +1,17 @@
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz,https://epg.112114.xyz/pp.xml.gz"
+#EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" tvg-name="凤凰中文" tvg-logo="https://i.imgur.com/rwY7FHT.png" group-title="通用",凤凰卫视中文
+#EXTVLCOPT:http-referrer=http://www.stream-link.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+http://2022.stream-link.org/live/322460831
+#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-name="凤凰资讯" tvg-logo="https://i.imgur.com/mt4h3VO.png" group-title="新闻",凤凰卫视资讯
+#EXTVLCOPT:http-referrer=http://www.stream-link.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+http://2022.stream-link.org/live/1770675188
+#EXTINF:-1 tvg-id="TVBNewsChannel.hk" tvg-name="无线新闻" tvg-logo="https://i.imgur.com/Gwij0Fj.png" group-title="新闻",TVB 无线新闻台
+#EXTVLCOPT:http-referrer=https://www.hklive.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://cdn.hklive.tv/xxxx/83/index.m3u8
+#EXTINF:-1 tvg-id="Jade.hk" tvg-name="翡翠台" tvg-logo="https://i.imgur.com/ooG96w8.png" group-title="通用",TVB 翡翠台
+#EXTVLCOPT:http-referrer=http://www.stream-link.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+http://2022.stream-link.org/live/131217689
